@@ -1,0 +1,9 @@
+.cabecalho{
+    background-color: aquamarine;
+    display: flex;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+
+}
